@@ -1,0 +1,22 @@
+{
+    "app_name": "Arteria",
+    "not_found": "Bulunamadı",
+    "screens": {
+        "homepage_page": {
+            "title": "Anasayfa",
+            "search_term_exceeded": "Aratılan terimin uzunluğunun 500 karakterden fazla olamaz"
+        },
+        "favorite_page": {
+            "title": "Favori Kitaplarım"
+        }
+    },
+    "widgets": {
+        "book_item": {
+            "authors": "Yazarlar",
+            "publisher": "Yayımcı",
+            "published_at": "Yayım tarihi",
+            "pages": "Sayfa sayısı",
+            "unknown": "Bilinmiyor"
+        }
+    }
+}
